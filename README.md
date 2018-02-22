@@ -1,7 +1,7 @@
 # iterative5point
 Fast five point epipolar geometry hypothesis generation for RANSAC using Gauss Newton on the Lie algebra se(3)
 
-This particular implementation is not fast, but the technique is. It is a quite extremely rough sketch of the ideas in the papers
+This particular implementation is not fast, but the technique is. It is a quite rough sketch of the ideas in the papers
 
 * "An Iterative 5-pt Algorithm for Fast and Robust Essential Matrix Estimation (with Vincent Lui)" by Lui and Drummond.
 
